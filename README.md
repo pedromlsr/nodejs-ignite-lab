@@ -5,7 +5,7 @@ Repositório destinado ao curso Ignite Lab (edição Node.js 12/2022) oferecido 
 
 ## Tecnologias utilizadas:
 - Node.js
-- NestJS
+- Nest.js
 - Prisma
 - Typescript
 - Redis
